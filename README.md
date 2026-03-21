@@ -48,6 +48,7 @@
 - [Taskyon](https://github.com/Xyntopia/taskyon) – Vue3-based local-first chat UI
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
+- [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop) – Desktop app that combines n8n and Ollama
 
 ## Agent Frameworks (fully local) (25)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
