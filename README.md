@@ -27,6 +27,7 @@
 
 ## Desktop & Web UIs (22)
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
+- [Open WebUI Ultimate Stack](https://github.com/BitWise-0x/open-webui-ultimate-stack) – Production-ready Docker stack for Open WebUI with 35+ pre-built tools, RAG, private search, OCR, TTS, and ComfyUI workflows
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
 - [Gradio](https://gradio.app) – Instant web demos for any model
