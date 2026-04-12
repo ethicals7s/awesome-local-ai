@@ -75,6 +75,8 @@
 - [Camel-AI](https://github.com/camel-ai/camel) – Communicative agents for role-playing
 - [AgentGPT](https://github.com/reworkd/AgentGPT) – Browser-based autonomous agents (local mode)
 - [PrivateGPT](https://github.com/imartinez/privateGPT) – Local agent for document querying
+- [toprank](https://github.com/nowork-studio/toprank) – Open-source Claude Code plugin for SEO & Google Ads optimization locally
+
 
 ## RAG & Vector Databases (14)
 - [Chroma](https://www.trychroma.com) – Lightweight embedded vector database
