@@ -8,11 +8,12 @@
 
 **Star this repo to keep the ultimate local-AI toolbox at hand → updated weekly**
 
-## One-Click Runners & Installers (15)
+## One-Click Runners & Installers (16)
 - [Ollama](https://ollama.com) – One-command runner for Llama 3, Gemma, Mistral, etc.
 - [LM Studio](https://lmstudio.ai) – Beautiful GUI for discovering and chatting with local models
 - [GPT4All](https://gpt4all.io) – Fully offline chat with 100+ quantized models
 - [Jan](https://jan.ai) – Open-source ChatGPT alternative that runs locally
+- [Atomic Chat](https://atomic.chat) – GUI-first local AI chat (Mac/Win/Linux/iOS/Android), runs GGUF & MLX with an OpenAI-compatible server
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp) – High-performance C++ inference engine (GGUF)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) – Feature-rich web UI with LoRAs and extensions
 - [AnythingLLM](https://anythingllm.com) – Local RAG + document chat workspace
