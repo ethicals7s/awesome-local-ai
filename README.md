@@ -4,7 +4,7 @@
 [![Star History](https://api.star-history.com/svg?repos=ethicals7s/awesome-local-ai&type=Date)](https://star-history.com/#ethicals7s/awesome-local-ai&Date)
 
 > Curated list of the best **open-source** tools to run, fine-tune, and build with LLMs **100% locally** in 2025–2026  
-> No cloud · No API keys · No censorship — **152 tools with descriptions and growing**
+> No cloud · No API keys · No censorship — **153 tools with descriptions and growing**
 
 **Star this repo to keep the ultimate local-AI toolbox at hand → updated weekly**
 
@@ -49,7 +49,7 @@
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
 
-## Agent Frameworks (fully local) (25)
+## Agent Frameworks (fully local) (26)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
 - [AutoGen](https://microsoft.github.io/autogen/) – Microsoft conversational multi-agent system
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Stateful multi-actor applications
@@ -75,6 +75,7 @@
 - [Camel-AI](https://github.com/camel-ai/camel) – Communicative agents for role-playing
 - [AgentGPT](https://github.com/reworkd/AgentGPT) – Browser-based autonomous agents (local mode)
 - [PrivateGPT](https://github.com/imartinez/privateGPT) – Local agent for document querying
+- [Nanocoder](https://github.com/Nano-Collective/nanocoder) – Local-first terminal coding agent, bring your own model
 
 ## RAG & Vector Databases (14)
 - [Chroma](https://www.trychroma.com) – Lightweight embedded vector database
