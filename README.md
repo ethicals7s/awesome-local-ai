@@ -49,10 +49,11 @@
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
 
-## Agent Frameworks (fully local) (25)
+## Agent Frameworks (fully local) (26)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
 - [AutoGen](https://microsoft.github.io/autogen/) – Microsoft conversational multi-agent system
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Stateful multi-actor applications
+- [LocalHarness](https://github.com/ahwurm/localharness) – Config-driven (YAML) agent harness built for local models
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) – Task-driven autonomous agent
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – Experimental autonomous GPT agent
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) – Generate codebases from specifications
