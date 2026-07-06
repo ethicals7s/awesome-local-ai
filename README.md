@@ -130,7 +130,7 @@
 - [ImageBind](https://github.com/facebookresearch/ImageBind) – Multimodal embedding across 6 modalities
 - [CLIP](https://github.com/openai/CLIP) – Contrastive language-image pretraining
 
-## Inference Engines & Backends (22)
+## Inference Engines & Backends (23)
 - [vLLM](https://github.com/vllm-project/vllm) – High-throughput serving with PagedAttention
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) – NVIDIA-optimized low-latency inference
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) – Blazing-fast quantized inference
@@ -138,6 +138,7 @@
 - [MLX](https://github.com/ml-explore/mlx) – Apple Silicon-native framework
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm) – Universal deployment engine
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) – Lightweight C++ inference
+- [Project Zero](https://github.com/shifulegend/project-zero) – Zero-dependency C99 engine, BitNet ternary + GGUF dense in one binary
 - [ONNX Runtime](https://onnxruntime.ai) – Cross-platform ML accelerator
 - [OpenVINO](https://github.com/openvinotoolkit/openvino) – Intel-optimized inference
 - [TVM](https://tvm.apache.org) – End-to-end optimizing compiler
