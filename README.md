@@ -25,7 +25,7 @@
 - [Cortex](https://github.com/janhq/cortex.cpp) – Embeddable multi-engine runner
 - [LMDeploy](https://github.com/InternLM/lmdeploy) – Model compression and deployment toolkit
 
-## Desktop & Web UIs (22)
+## Desktop & Web UIs (23)
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
@@ -48,6 +48,7 @@
 - [Taskyon](https://github.com/Xyntopia/taskyon) – Vue3-based local-first chat UI
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) – Local-first macOS app for fully-offline AI: LLM chat, image gen, dictation, and personal memory/RAG
 
 ## Agent Frameworks (fully local) (25)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
