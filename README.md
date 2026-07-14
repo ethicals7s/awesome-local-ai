@@ -49,7 +49,7 @@
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
 
-## Agent Frameworks (fully local) (25)
+## Agent Frameworks (fully local) (26)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
 - [AutoGen](https://microsoft.github.io/autogen/) – Microsoft conversational multi-agent system
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Stateful multi-actor applications
@@ -75,6 +75,7 @@
 - [Camel-AI](https://github.com/camel-ai/camel) – Communicative agents for role-playing
 - [AgentGPT](https://github.com/reworkd/AgentGPT) – Browser-based autonomous agents (local mode)
 - [PrivateGPT](https://github.com/imartinez/privateGPT) – Local agent for document querying
+- [DevAI](https://github.com/Riadh35/DevAi) – 100% local dev agent: chat with Ollama, file/command/web-search tool use, persistent memory and skills
 
 ## RAG & Vector Databases (14)
 - [Chroma](https://www.trychroma.com) – Lightweight embedded vector database
