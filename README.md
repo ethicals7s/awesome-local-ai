@@ -130,7 +130,7 @@
 - [ImageBind](https://github.com/facebookresearch/ImageBind) – Multimodal embedding across 6 modalities
 - [CLIP](https://github.com/openai/CLIP) – Contrastive language-image pretraining
 
-## Inference Engines & Backends (22)
+## Inference Engines & Backends (23)
 - [vLLM](https://github.com/vllm-project/vllm) – High-throughput serving with PagedAttention
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) – NVIDIA-optimized low-latency inference
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) – Blazing-fast quantized inference
@@ -153,6 +153,7 @@
 - [Triton Inference Server](https://github.com/triton-inference-server/server) – Multi-framework serving
 - [OpenPPL](https://github.com/openppl-public/ppl.nn) – Neural network inference engine
 - [llama.rs](https://github.com/rustformers/llama-rs) – Rust bindings for llama.cpp
+- [Xybrid](https://github.com/xybrid-ai/xybrid) – Local-first runtime for LLMs, ASR, and TTS in native apps and games
 
 ## Contribute
 Found something missing? → Open a PR! Let’s get to 200+ together
