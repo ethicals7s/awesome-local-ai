@@ -26,6 +26,7 @@
 - [LMDeploy](https://github.com/InternLM/lmdeploy) – Model compression and deployment toolkit
 
 ## Desktop & Web UIs (22)
+- [ARCC](https://github.com/niyongsheng/arcc) – Rust local-first AI agent with TUI, CLI, and Server daemon modes, native MCP/ACP client, dual-model scheduling (DeepSeek-V4 Pro/Flash), safety engine, and SQLite persistence.
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
