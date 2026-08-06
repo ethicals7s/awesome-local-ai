@@ -4,7 +4,7 @@
 [![Star History](https://api.star-history.com/svg?repos=ethicals7s/awesome-local-ai&type=Date)](https://star-history.com/#ethicals7s/awesome-local-ai&Date)
 
 > Curated list of the best **open-source** tools to run, fine-tune, and build with LLMs **100% locally** in 2025–2026  
-> No cloud · No API keys · No censorship — **152 tools with descriptions and growing**
+> No cloud · No API keys · No censorship — **153 tools with descriptions and growing**
 
 **Star this repo to keep the ultimate local-AI toolbox at hand → updated weekly**
 
@@ -25,7 +25,7 @@
 - [Cortex](https://github.com/janhq/cortex.cpp) – Embeddable multi-engine runner
 - [LMDeploy](https://github.com/InternLM/lmdeploy) – Model compression and deployment toolkit
 
-## Desktop & Web UIs (22)
+## Desktop & Web UIs (23)
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
@@ -48,6 +48,7 @@
 - [Taskyon](https://github.com/Xyntopia/taskyon) – Vue3-based local-first chat UI
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
+- [Orkas](https://github.com/Orkas-AI/Orkas) – Desktop multi-agent workspace with support for local OpenAI-compatible model endpoints
 
 ## Agent Frameworks (fully local) (25)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
