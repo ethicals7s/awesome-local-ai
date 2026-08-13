@@ -25,7 +25,7 @@
 - [Cortex](https://github.com/janhq/cortex.cpp) – Embeddable multi-engine runner
 - [LMDeploy](https://github.com/InternLM/lmdeploy) – Model compression and deployment toolkit
 
-## Desktop & Web UIs (22)
+## Desktop & Web UIs (23)
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
@@ -36,6 +36,7 @@
 - [Continue.dev](https://continue.dev) – Local VSCode Copilot
 - [Aider](https://aider.chat) – Terminal pair programmer with git integration
 - [Open Interpreter](https://openinterpreter.com) – Run code and control your computer locally
+- [Atomic Agent](https://atomicagent.io) – Terminal UI coding assistant running open-weight models on your machine
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) – Node-based Stable Diffusion workflow
 - [InvokeAI](https://invoke.ai) – Creative image generation UI
 - [Fooocus](https://github.com/lllyasviel/Fooocus) – Simplified high-quality image generation
@@ -49,7 +50,8 @@
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
 
-## Agent Frameworks (fully local) (25)
+## Agent Frameworks (fully local) (26)
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) – Local-first CLI and TUI coding agent with 56 built-in tools and MCP support (developer preview)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
 - [AutoGen](https://microsoft.github.io/autogen/) – Microsoft conversational multi-agent system
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Stateful multi-actor applications
