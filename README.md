@@ -41,6 +41,7 @@
 - [Fooocus](https://github.com/lllyasviel/Fooocus) – Simplified high-quality image generation
 - [Draw Things](https://drawthings.ai) – macOS/iOS Stable Diffusion app
 - [Msty](https://msty.app) – Minimalist local chat app
+- [Persona](https://github.com/jayamitkatariya/personacli) – Local-first personal workspace; Markdown notes + tasks with AI chat grounded in your own files
 - [LlamaGPT](https://github.com/getumbrel/llama-gpt) – Self-hosted chat on Umbrel
 - [Text Generation UI](https://github.com/oobabooga/text-generation-webui) – Versatile text gen web UI
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) – Clean self-hosted ChatGPT-like interface
