@@ -25,7 +25,7 @@
 - [Cortex](https://github.com/janhq/cortex.cpp) – Embeddable multi-engine runner
 - [LMDeploy](https://github.com/InternLM/lmdeploy) – Model compression and deployment toolkit
 
-## Desktop & Web UIs (22)
+## Desktop & Web UIs (23)
 - [Open WebUI](https://openwebui.com) – Official gorgeous frontend for Ollama
 - [LobeChat](https://lobechat.com) – Modern multi-model chat UI with local backends
 - [Chainlit](https://chainlit.io) – Build conversational AI apps fast
@@ -49,7 +49,8 @@
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
 
-## Agent Frameworks (fully local) (25)
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat over plain Markdown files. Connects to Ollama for free private AI.
+## Agent Frameworks (fully local) (26)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
 - [AutoGen](https://microsoft.github.io/autogen/) – Microsoft conversational multi-agent system
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Stateful multi-actor applications
@@ -76,6 +77,7 @@
 - [AgentGPT](https://github.com/reworkd/AgentGPT) – Browser-based autonomous agents (local mode)
 - [PrivateGPT](https://github.com/imartinez/privateGPT) – Local agent for document querying
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Open-source macOS menu bar AI agent: shake cursor to summon an overlay that sees your screen and can click, type, and act.
 ## RAG & Vector Databases (14)
 - [Chroma](https://www.trychroma.com) – Lightweight embedded vector database
 - [Weaviate](https://weaviate.io) – Open-source vector search engine
