@@ -45,6 +45,7 @@
 - [Text Generation UI](https://github.com/oobabooga/text-generation-webui) – Versatile text gen web UI
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) – Clean self-hosted ChatGPT-like interface
 - [HuggingChat](https://huggingface.co/chat) – Self-hosted version of HF chat
+- [GHost PCP](https://github.com/realkellyspear/GHost-PCP) – Local GGUF persona chat grounded in your ChatGPT export archive with offline RAG, Piper TTS voices, and phone pairing
 - [Taskyon](https://github.com/Xyntopia/taskyon) – Vue3-based local-first chat UI
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
